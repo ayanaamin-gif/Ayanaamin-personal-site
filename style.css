@@ -1,0 +1,12 @@
+body { 
+    background-color: #f8f9fa; /* Color scheme: Soft light grey */
+    color: #333;               /* Dark grey text for readability */
+    font-family: 'Helvetica', Arial, sans-serif; /* Custom typography */
+    max-width: 900px;
+    margin: 0 auto;            /* Layout: Centers the page content */
+    padding: 40px;             /* Spacing: Adds padding around the text */
+}
+
+h1 { color: #d41b2c; } /* Northeastern-themed Red for the main heading */
+h2 { color: #2d2d2d; }
+nav { margin-bottom: 20px; font-weight: bold; }

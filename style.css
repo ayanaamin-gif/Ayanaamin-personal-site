@@ -1,1 +1,9 @@
+body { 
+    background-color: #f4f4f4; /* 1. Color scheme: Light grey */
+    font-family: Arial;        /* 2. Custom font: Simple and clean */
+    padding: 30px;             /* 3. Spacing: Keeps text away from edges */
+    line-height: 1.5;          /* Makes text easier to read */
+}
 
+h1 { color: maroon; } 
+nav { background: white; padding: 10px; margin-bottom: 20px; }
